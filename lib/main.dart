@@ -3,8 +3,8 @@ import 'dart:math';
 
 void main() {
   runApp(MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: Scaffold(
+    debugShowCheckedModeBanner: false,
+    home: Scaffold(
     backgroundColor: Colors.red.shade700,
     appBar: AppBar(
       title: Text('Dicee'),
