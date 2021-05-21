@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+## Screenshot
+
+App Starting:-
+<img src= "https://user-images.githubusercontent.com/42904172/119140188-83c12780-ba61-11eb-93d1-b70598acc434.png" width = "400" height = "790">
+
+After tapping on one of the dice:-
+<img src= "https://user-images.githubusercontent.com/42904172/119140393-b8cd7a00-ba61-11eb-9289-f88bf92ab01d.png" width = "400" height = "790">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
